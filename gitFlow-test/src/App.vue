@@ -1,10 +1,8 @@
 <template>
   <div>
-    <h1>app</h1>
-    <RouterView></RouterView>
+    <router-link to="/">home</router-link>
+
+    <RouterView />
   </div>
 </template>
 
-<script setup></script>
-
-<style lang="scss" scoped></style>
