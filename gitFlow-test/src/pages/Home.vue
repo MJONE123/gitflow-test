@@ -1,7 +1,8 @@
 <template>
   <div>
-    <h1>app</h1>
-    <RouterView></RouterView>
+    <RouterLink to="/">home</RouterLink>
+    <RouterView />
+    <h1>Home view</h1>
   </div>
 </template>
 
