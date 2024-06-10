@@ -5,3 +5,4 @@
     <RouterView />
   </div>
 </template>
+
